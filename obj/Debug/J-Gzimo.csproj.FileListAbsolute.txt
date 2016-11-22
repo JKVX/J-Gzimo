@@ -1,0 +1,9 @@
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\bin\Debug\J-Gzimo.exe.config
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\bin\Debug\J-Gzimo.exe
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\bin\Debug\J-Gzimo.pdb
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\obj\Debug\J-Gzimo.csprojResolveAssemblyReference.cache
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\obj\Debug\J_Gzimo.Form1.resources
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\obj\Debug\J_Gzimo.Properties.Resources.resources
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\obj\Debug\J-Gzimo.csproj.GenerateResource.Cache
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\obj\Debug\J-Gzimo.exe
+E:\university\subject\面向对象分析与设计\实验\Lab 04\J-Gizmo\J-Gzimo\obj\Debug\J-Gzimo.pdb
